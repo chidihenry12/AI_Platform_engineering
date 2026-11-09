@@ -1,0 +1,8 @@
+/.claude/*
+!/.claude/settings.json
+!/.claude/agents/
+!/.claude/skills/
+!/.claude/rules/
+!/.claude/hooks/
+.claude/settings.local.json
+.claude/transcripts/
